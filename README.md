@@ -1,4 +1,4 @@
 # harshitha-demo
 This is my first Git repository
 <br>
-Author - Harshitha Suvarna
+Author - Harshitha Suvarna (18)
